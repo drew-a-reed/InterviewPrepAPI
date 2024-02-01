@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 namespace InterviewPrepAPI.Controllers
 {
 	[ApiController]
-	[Route("api/[controller]")]
+	[Route("api/users")]
 	public class UserController: Controller
 	{
 
